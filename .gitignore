@@ -1,0 +1,4 @@
+backend/src/utils/mongoConnect.js
+backend/node_modules
+backend/.vscode
+backend/yarn.lock
